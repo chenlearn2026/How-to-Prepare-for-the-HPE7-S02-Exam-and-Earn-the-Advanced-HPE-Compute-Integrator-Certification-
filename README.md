@@ -201,7 +201,7 @@ Understanding how workloads influence infrastructure decisions is especially imp
 
 **Step 5: Practice with HPE7-S02 Exam Questions**
 
-Practice exams (https://www.certqueen.com/HPE7-S02-exam.html) are useful for measuring your readiness.
+[Practice exams] (https://www.certqueen.com/HPE7-S02-exam.html) are useful for measuring your readiness.
 
 They can help you:
 
